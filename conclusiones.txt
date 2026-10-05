@@ -1,0 +1,3 @@
+Se encuentra que el servidor esta desconectado por tanto no se puede correr la prueba
+Se configura para conectar los 6 usuarios, sin embrgo al realizar la prueba de humo con un solo usuario se encuentra que el servidor no responde "error 521"
+Se valida el ingreso a lservidor con la URL https://www.fakestoreapi.com y se encuentra apagado
